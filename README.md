@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.tiktok.com/@imnotpey1**
+- 👨‍💻 All of my projects are available at **[My Portfolio] 
 
 - 📫 How to reach me **Peywan1999@icloud.com**
 
