@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peywan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Stockholm, Sweden.</h3>
+<h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me: I'm Peywan from stockholm Sweden, and I do readn and learn on Design and Development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
