@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Vanilla javascript.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **any projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio] 
 
-- 📫 How to reach me **Peywan1999@icloud.com**
+- 📫 How to reach me: **Peywan1999@icloud.com**
 
 
 
