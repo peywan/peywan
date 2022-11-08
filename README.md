@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
 
 
-## 🙋‍♂️ About Me: I'm Peywan and I study and learn Design & Development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
+## 🙋‍♂️ About Me: I'm Peywan and I study and learn design & development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
 
 - 🔭 I’m currently working on: (front end project at university of applied sciences KYH)
 
