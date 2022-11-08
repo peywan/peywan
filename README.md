@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me: I'm Peywan from stockholm Sweden, and I do readn and learn on Design and Development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on: (front end project at university of applied sciences KYH)
 
 - 🌱 I’m currently learning **Vanilla javascript.**
 
@@ -78,6 +78,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=peywan">
 </a>
 <a href="https://github.com/peywan?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
