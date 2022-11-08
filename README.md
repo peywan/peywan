@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at ([link][https://github.com/peywan](https://github.com/peywan?tab=repositories])
+- 👨‍💻 All of my projects are available at ([https://github.com/peywan](https://github.com/peywan?tab=repositories])
 
 - 📫 How to reach me: **Peywan1999@icloud.com**
 
