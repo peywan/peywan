@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio] 
+- 👨‍💻 All of my projects are available at [link](github.com/peywan)]
 
 - 📫 How to reach me: **Peywan1999@icloud.com**
 
@@ -46,10 +46,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/peywan/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=peywan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/peywan/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=peywan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
     <br>
-  <a href="https://github.com/peywan/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peywan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/peywan/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peywan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
