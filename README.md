@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: (front end project at university of applied sciences KYH)
 
-- 🌱 I’m currently learning **Vanilla javascript.**
+- 🌱 I’m currently learning **React.**
 
 - 👯 I’m looking to collaborate on **any projects**
 
