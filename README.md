@@ -60,12 +60,7 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/peywan-s-333b86208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/peywan_muhammed"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/pey1one/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC8MWi9WEigxarBZvr70Ke-g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
 </p>
 
 ## ❤ Views and Followers
