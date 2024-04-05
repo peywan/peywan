@@ -1,9 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peywan</h1>
 <h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
 
-
+x-
 ## 🙋‍♂️ I'm Peywan and I study and learn design & development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
 
 - 🔭 I’m currently working on: (front end project at university of applied sciences KYH)
