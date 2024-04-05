@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peywan</h1>
 <h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
 
-
+<div align="center">
 ## 🙋‍♂️ I'm Peywan and I study and learn web/app design & development. I really enjoy learning languages and frameworks like React and React native. I also enjoy wireframing, UI/UX, and design in general. 
 ## You can check out my repositories to see my work with designing and how i code. 
 
@@ -12,12 +12,12 @@
 - 👨‍💻 All of my projects are available at [link](https://github.com/peywan?tab=repositories)
 
 - 📫 Reach me at: **Peywan1999@icloud.com**
-
+</div>
 
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
