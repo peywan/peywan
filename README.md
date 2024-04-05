@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [link](https://github.com/peywan?tab=repositories)
 
 - 📫 Reach me at: **Peywan1999@icloud.com**
-</div>
+
 
 
 ## 🚀 Languages and Tools:
@@ -39,7 +39,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/peywan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="peywan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peywan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -61,5 +61,5 @@
     <img src="https://komarev.com/ghpvc/?username=peywan">
 </a>
 <a href="https://github.com/peywan?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-
+</div>
 
