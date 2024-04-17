@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
 
 <div align="center">
-## 🙋‍♂️ I'm Peywan and I study and learn web/app design & development. I really enjoy learning languages and frameworks like React and React native. I also enjoy wireframing, UI/UX, and design in general. 
+ 🙋‍♂️ I'm Peywan and I study and learn web/app design & development. I really enjoy learning languages and frameworks like React and React native. I also enjoy wireframing, UI/UX, and design in general. 
 ## You can check out my repositories to see my work with designing and how i code. 
 
  🔭 I'm currently studying at: (front end project at university of applied sciences with Chas Academy)
