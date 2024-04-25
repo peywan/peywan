@@ -54,11 +54,3 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/peywan-s-333b86208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=peywan">
-</a>
-<a href="https://github.com/peywan?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
-
