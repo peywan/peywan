@@ -20,9 +20,6 @@
   <a href="http://www.peywan.com">Peywan.com</a>
 </p>
 <br>
-<br>
- 
-
 
 
 ## 🚀 Languages and Tools:
@@ -40,7 +37,7 @@
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge]
 -->
-
+<br>
 ## 📊 My Github Stats
 
   <br/>
@@ -53,7 +50,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="peywan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peywan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<br>
 <a href="https://github.com/peywan/github-readme-stats" align="center"><img alt="" src="https://github-readme-stats.vercel.app/api?username=peywan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
 
    
@@ -64,3 +61,4 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/peywan-s-333b86208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
+<br>
