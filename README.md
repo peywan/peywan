@@ -14,10 +14,13 @@
  📫 Reach me at: **Peywan1999@icloud.com**
 
  ## projects i have made:
- <p align="center">
-  <a href="reviews-gallery-dh0krtlvm-peywans-projects.vercel.app">
- </p>
-
+<p align="center">
+  <a href="https://reviews-gallery-wine.vercel.app/">Reviews Gallery</a> <br>
+  <a href="https://next-js-portfolio2-mocha.vercel.app/">Next.js Portfolio 2</a> <br>
+  <a href="http://www.peywan.com">Peywan.com</a>
+</p>
+<br>
+<br>
  
 
 
