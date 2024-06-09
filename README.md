@@ -14,11 +14,17 @@
 
  📫 Reach me at: **Peywan1999@icloud.com**
 
- ## projects i have made that you wanna see!
-<p align="center">
-  <a href="https://reviews-gallery-wine.vercel.app/">Reviews Gallery</a> <br>
-  <a href="https://next-js-portfolio2-mocha.vercel.app/">Next.js Portfolio 2</a> <br>
-  <a href="http://www.peywan.com">Peywan.com</a>
+ ## Projects I Have Made That You Wanna See!
+ <p align="center">
+  <a href="https://reviews-gallery-wine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Reviews%20Gallery-%23FF5722.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Reviews Gallery"/>
+  </a>
+  <a href="https://next-js-portfolio2-mocha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js%20Portfolio%202-%23007396.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Next.js Portfolio 2"/>
+  </a>
+  <a href="http://www.peywan.com" target="_blank">
+    <img src="https://img.shields.io/badge/Peywan.com-%23FF4081.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Peywan.com"/>
+  </a>
 </p>
 
 <br>
