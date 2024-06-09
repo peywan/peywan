@@ -19,11 +19,9 @@
   <a href="https://next-js-portfolio2-mocha.vercel.app/">Next.js Portfolio 2</a> <br>
   <a href="http://www.peywan.com">Peywan.com</a>
 </p>
-<br>
 
 
 ## 🚀 Languages and Tools:
-
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -40,7 +38,7 @@
 <br>
 ## 📊 My Github Stats
 
-  <br/>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
@@ -50,7 +48,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="peywan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peywan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<br>
+
 <a href="https://github.com/peywan/github-readme-stats" align="center"><img alt="" src="https://github-readme-stats.vercel.app/api?username=peywan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
 
    
