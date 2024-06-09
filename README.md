@@ -3,17 +3,18 @@
 
 <div align="center">
  🙋‍♂️ I'm Peywan and I study and learn web/app design & development. I really enjoy learning languages and frameworks like React and React native. I also enjoy wireframing, UI/UX, and design in general. 
-## You can check out my repositories to see my work with designing and how i code. 
+
+ ## You can check out my repositories to see my work with designing and how i code. 
 
  🔭 I'm currently studying at: (front end project at university of applied sciences with Chas Academy)
 
- 🌱 I’m currently learning **React, React Native, mySQL.**
+ 🌱 I’m currently learning **React, React Native, mySQL and nextJS**
 
  👨‍💻 All of my projects are available at [link](https://github.com/peywan?tab=repositories)
 
  📫 Reach me at: **Peywan1999@icloud.com**
 
- ## projects i have made:
+ ## projects i have made that you wanna see!
 <p align="center">
   <a href="https://reviews-gallery-wine.vercel.app/">Reviews Gallery</a> <br>
   <a href="https://next-js-portfolio2-mocha.vercel.app/">Next.js Portfolio 2</a> <br>
