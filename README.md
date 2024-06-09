@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Reviews%20Gallery-%23FF5722.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Reviews Gallery"/>
   </a>
   <a href="https://next-js-portfolio2-mocha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js%20Portfolio%202-%23007396.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Next.js Portfolio 2"/>
+    <img src="https://img.shields.io/badge/Next.js%20Portfolio%202-%23007396.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Next.js Portfolio"/>
   </a>
   <a href="http://www.peywan.com" target="_blank">
     <img src="https://img.shields.io/badge/Peywan.com-%23FF4081.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Peywan.com"/>
