@@ -58,7 +58,6 @@
 ## Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/peywan-s-333b86208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- <a href = "[https://www.linkedin.com/in/peywan-s-333b86208](https://www.instagram.com/peywan.dev/)"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
- <a href = "https://www.linkedin.com/in/peywan-s-333b86208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/peywan.dev/"></a>
 </p>
 <br>
