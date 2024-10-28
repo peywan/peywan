@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peywan</h1>
-<h3 align="center">I'm a passionate front end Developer from Stockholm, Sweden.</h3>
+<h3 align="center">I'm a front end Developer from Stockholm, Sweden.</h3>
 
 <div align="center">
  🙋‍♂️ I'm Peywan and I study and learn web/app design & development. I really enjoy learning languages and frameworks like React and React native. I also enjoy wireframing, UI/UX, and design in general. 
