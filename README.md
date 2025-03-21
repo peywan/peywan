@@ -8,7 +8,7 @@
 - Next.js / Typescript  
 - UI/UX & wireframing  
 
-**Currently studying** at Chas Academy focusing on front-end + mobile.  
+**Graduated at** at Chas Academy focusing on front-end + mobile & Competence vocational college full stack.
 **Always learning** modern tech & passionate about clean design.
 
 <br>
